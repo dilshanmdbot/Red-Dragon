@@ -11,13 +11,78 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+```👋 Hi! I am online now.```
+
+_🤖 I  am Red Dragon an user bot for whatsapp._
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+*ඔයා එක්ක..!!🙇‍♂️🤍*
+
+*දුරක් යන්න..!!🙇‍♂️🤍*
+
+*හීන දැක්කා මෙමා..!!🙇‍♂️🤍*
+
+*මගක් දුරට..!!🙇‍♂️🤍*
+
+*ඇවිත් ඇයිද..!!🙇‍♂️🤍*
+
+*ඔයා මෙ වෙනස් වෙලා..!!🙇‍♂️🤍*
+
+*දරාගන්න..!!🙇‍♂️🤍*
+
+*දුකත් බැරුව..!!🙇‍♂️🤍*
+
+*හුගක් පසුතැවෙමි මා..!!🙇‍♂️🤍*
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+*🧜‍♀️Have a nice day!🧜‍♀️*
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+*⃥ බ⃑ල⃪̷⃭⃐න⃪̷⃮⃖ කෙ⃪̷֑֑⃔̽͢නා̸⃕͜⃞📛 දැ̶͢ක̷්͢͞ක̷̶̱⃕ත් ල̶ස̸්͢ස̶න̸ම̸⃕͟ගෙ⃖͢ හි̸̶͞නා̸ව⃞☺️⃫ ක̷වු͢රු̶͞ත් දන̸̶්͢͞නැ ඇ⃕තු̷̶͟͞ලෙ පි͜ච්͞චෙ̸͢න ක̸̶͜͡තා͢͞ව⃝🌸̸*
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+🪀කණ්ඩායම් නීති🔏 : 
+
+⚙️ අනිවාර්යෙන් ᴍᴏᴅ ᴡʜᴀᴛsᴀᴘᴘ එකක්  ᴜsᴇᴅ කරන්න❗
+
+⚙️ 𝙳𝚘𝚗'𝚝 𝙶𝚒𝚟𝚎 𝚊𝚍𝚖𝚒𝚗 𝚃𝚘 𝙰𝚗𝚢𝚘𝚗𝚎 𝚊𝚗𝚍 𝚍𝚘 𝚗𝚘𝚝 𝙰𝚂𝙺 ❗
+
+⚙️ sᴘᴀᴍ දාන්න එපා ❗
+
+⚠️ 🔞 ᴘʜᴏᴛᴏꜱ,ᴠɪᴅᴇᴏꜱ බොට්ගෙන් ගැනීම තහනම් ❗
+
+⚠️ 𝙳𝚘𝚗'𝚝 𝚂𝚑𝚊𝚛𝚎 ❌
+
+                ❖ ɢʀᴏᴜᴘ ʟɪɴᴋs❗☡
+
+                ❖ ɪᴍᴀɢᴇs❗☡
+
+                ❖ sᴛɪᴄᴋᴇʀs❗☡
+
+                ❖ sᴇx ɪᴍɢ❗☡
+
+                ❖ 5 ʙᴏᴏᴍ ᴛᴇxᴛ❗☡
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Ｄ ɪ ʟ ꜱ ʜ ᴀ ɴ  😙❤️‍🩹🌻
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -32,28 +97,28 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['94779234594'] // owner number
 global.ownername = "Ｄ ɪ ʟ ꜱ ʜ ᴀ ɴ ❤️‍🩹🌻" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.socialm = "Whatsapp : Ｄ ɪ ʟ ꜱ ʜ ᴀ ɴ  😙❤️‍🩹🌻" // github or insta name
+global.location = "Sri Lanka ❤️🇱🇰" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://ibb.co/gTkgMvm/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "true" // To remove group link sharing peoples
-global.upsongvoice = "trur" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.antilink = "false" // To remove group link sharing peoples
+global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['94779234594']
 global.ownertag = '94779234594' //your tag number
 global.botname = 'Ｄ ɪ ʟ ᴀ - ʙᴏᴛ ❤️‍🩹🌻' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.packname = "Ｄ ɪ ʟ ꜱ ʜ ᴀ ɴ  😙❤️‍🩹🌻" // sticker packname
+global.author = "Ｄ ɪ ʟ ꜱ ʜ ᴀ ɴ - Ｂ ᴏ ᴛ 😙❤️‍🩹🌻" // sticker author
+global.dragonemoji = '😗' // Menu emoji
+global.footer = '[Ｄ ɪ ʟ ꜱ ʜ ᴀ ɴ  😙❤️‍🩹🌻 ]' //
 
 //database
 global.premium = ['+380944814219'] //ur premium numbers
